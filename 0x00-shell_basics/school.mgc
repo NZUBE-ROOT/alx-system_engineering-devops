@@ -1,3 +1,2 @@
 #!/bin/bash
-string SCHOOL School data
-!:mime School
+mv [[: upper:]]* /tmp/u
