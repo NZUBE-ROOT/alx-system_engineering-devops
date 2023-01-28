@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# This script displays 'To infinity and beyond' indefinitely
+# Requirement: In between each iteration of the loop, add a sleep 2
+
+trap 'echo "I am invincible!!!"' SIGTERM
+while true
+do
+    echo "hello how are you"
+    sleep 3 
+done
